@@ -1,0 +1,53 @@
+@import url();
+body{
+    font-family: 'Times New Roman', Times, serif;
+    over-flow-x: hidden;
+
+}
+#menu a {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(112, 24, 69);
+
+}
+#menu button {
+    font-size: 18px;
+    font-weight: bold;  
+}
+.carousel-inner {
+   max-height: 55rem;
+
+}
+@media (max-width: 768px) {
+    #intro #Lunahaciendocosas {
+width: 90%; !important;
+    }
+}
+.acerca-de-lunita{
+    text-align: center;
+}
+
+.Lunaeninstagram{
+    background: url(../PaginaDeLunita/IMG_8984.jpg);
+}
+
+#Lunahaciendocosas {
+    background: rgba(191, 48, 134, 0.066);
+
+}
+#Lunitahaciendocosas{
+    background: rgba(155, 35, 107, 0.084);
+    padding-bottom: 100px;
+
+    
+}
+
+footer{
+    background: rgb(142, 140, 140);
+    text-align: center;
+}
+#iconos i {
+    font-size: 26px;
+    padding: 0 8px;
+    color:rgb(91, 21, 75);
+}
